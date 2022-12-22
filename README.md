@@ -1,4 +1,4 @@
-## Oii! Meu nome é Murilo. Tudo belezinha?
+## Hi! My name is Murilo. What's up?
 
 <div align="center" justify="space-around">
   <a href="https://github.com/Lilo-afk">
