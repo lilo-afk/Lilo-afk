@@ -1,4 +1,4 @@
-## Hi! My name is Murilo.
+## Hi! I'm Murilo.
 
 <div align="center" justify="space-around">
   <a href="https://github.com/Lilo-afk">
