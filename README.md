@@ -1,4 +1,7 @@
-## Hi! I'm Murilo.
+<h1> 
+Hi! I'm Murilo. 
+<img src="https://i.pinimg.com/originals/b6/90/40/b69040ba12c1b3a9d9d998e3e67154e9.gif" width="80">
+</h1>
 
 <div align="center" justify="space-around">
   <a href="https://github.com/Lilo-afk">
