@@ -1,13 +1,10 @@
-<h1> 
-Hi! I'm Murilo. 👨‍💻
-<img src="https://i.pinimg.com/originals/b6/90/40/b69040ba12c1b3a9d9d998e3e67154e9.gif" width="80">
-</h1>
+## Hi! I'm Murilo and Welcome! 👨‍💻👋
 
 **`Front-end developer`**
 
-* I'm a Systems Development technician and I'm starting a technical course in Systems Analysis and Development, at Fatec in Carapicuíba, São Paulo - Brazil.
+- I'm a Systems Development technician and I'm starting a technical course in Systems Analysis and Development, at Fatec in Carapicuíba, São Paulo - Brazil.
 
-* Currently, I embarked on the front-end at first, however I intend to specialize in being a full-stack developer and studying AIs soon.
+- Currently, I embarked on the front-end at first, however I intend to specialize in being a full-stack developer and studying AIs soon.
 
 <p align="center">
 <a href="https://github.com/lilo-afk?tab=followers">
