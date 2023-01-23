@@ -1,6 +1,6 @@
 ## Hi! I'm Murilo and Welcome! 👨‍💻👋
 
-**`Front-end developer`**
+**`Full-Stack developer`**
 
 - I'm a Systems Development technician and I'm starting a technical course in Systems Analysis and Development, at Fatec in Carapicuíba, São Paulo - Brazil.
 
