@@ -6,15 +6,6 @@
 
 - Currently, I embarked on the front-end at first, however I intend to specialize in being a full-stack developer and studying AIs soon.
 
-<p align="center">
-<a href="https://github.com/lilo-afk?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lilo-afk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>
-<a href="https://github.com/lilo-afk?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lilo-afk?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-</a>
-<img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=lilo-afk&style=for-the-badge&color=blue"/>
-</p>
 <div align="center" justify="space-around">
   <a href="https://github.com/Lilo-afk">
 </div>
@@ -23,6 +14,15 @@
   <a href = "mailto: mma.murilo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/murilo-martins-alves-5947501a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<p align="center">
+<a href="https://github.com/lilo-afk?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lilo-afk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+<a href="https://github.com/lilo-afk?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lilo-afk?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
+</p>
 
   <img align="right" alt="computerGif" height="150" width="250" src="https://user-images.githubusercontent.com/80017589/213291999-1c48aa92-b93e-482f-8fbf-9313eaca6165.gif">
   
