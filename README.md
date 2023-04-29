@@ -11,18 +11,10 @@
 </div>
 <div align="center"> 
   <a href="https://www.instagram.com/lilo.mma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: mma.murilo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/murilo-martins-alves-5947501a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: murilo.alves28@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/811435" target="_blank"><img src="https://img.shields.io/badge/-Beecrowd-yellow?style=for-the-badge&logo=beecrowd&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/murilo-martins-alves-5947501a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<p align="center">
-<a href="https://github.com/lilo-afk?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lilo-afk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>
-<a href="https://github.com/lilo-afk?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lilo-afk?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-</a>
-</p>
 
   <img align="right" alt="computerGif" height="150" width="250" src="https://user-images.githubusercontent.com/80017589/213291999-1c48aa92-b93e-482f-8fbf-9313eaca6165.gif">
   
