@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/murilo-martins-alves-5947501a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-  <img align="right" alt="computerGif" height="150" width="250" src="https://user-images.githubusercontent.com/80017589/213291999-1c48aa92-b93e-482f-8fbf-9313eaca6165.gif">
+<!--   <img align="right" alt="computerGif" height="150" width="250" src="https://user-images.githubusercontent.com/80017589/213291999-1c48aa92-b93e-482f-8fbf-9313eaca6165.gif"> -->
   
 <div align="center"><br>
   <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
