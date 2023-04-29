@@ -2,9 +2,10 @@
 
 **`Full-Stack developer`**
 
-- I'm a Systems Development technician and I'm starting a technical course in Systems Analysis and Development, at Fatec in Carapicuíba, São Paulo - Brazil.
+- I'm a Systems Development technician and I'm starting a technical course in Systems Analysis and Development, at Fatec in Carapicuíba, São Paulo - Brazil. 
+ Since I got to know the world of programming, I've been avidly studying and researching this area. I am a young programmer who values his training and development, both personally and professionally. I really enjoy studying Frameworks and mastering more and more languages!
 
-- Currently, I embarked on the front-end at first, however I intend to specialize in being a full-stack developer and studying AIs soon.
+- Currently, I embarked on the back-end at first, however I intend to specialize in being a full-stack developer and studying AIs soon.
 
 <div align="center" justify="space-around">
   <a href="https://github.com/Lilo-afk">
