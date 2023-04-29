@@ -1,4 +1,4 @@
-## Hi! I'm Murilo and Welcome! 👨‍💻👋
+## Hi! I'm Murilo and Welcome! 👨‍💻
 
 **`Full-Stack developer`**
 
