@@ -29,9 +29,4 @@
   <img align="center" alt="Murilo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div><br><br><br>
-    
-  ##
- 
-  ![Snake animation](https://github.com/lilo-afk/lilo-afk/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
