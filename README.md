@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="22px"> Hi there. I'm Murilo!
 
 <div>
-<img align="right" src="./img/readme-signature.png" width="280">
+<img align="right" src="./img/readme-signature.png" width="300">
 
 **`Full Stack Developer`**
 
